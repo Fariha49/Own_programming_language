@@ -1,0 +1,4 @@
+VAR r=1
+FOR i=1 TO 6 THEN VAR r = r*i
+PRINT(r)
+
